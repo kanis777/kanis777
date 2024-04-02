@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Kanishka Kannan 🚀**
+### Kanishka Kannan 🚀
 
 **About Me ℹ️**
 
