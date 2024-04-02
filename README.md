@@ -39,9 +39,8 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 - **Other Skills:** SQL, Web Scraping
 
 **Contact Me 📧**
-- **Email:** your.email@example.com
-- **LinkedIn:** [Kanishka Kannan on LinkedIn](https://www.linkedin.com/in/kanishka-kannan)
-- **Twitter:** [Kanishka Kannan on Twitter](https://twitter.com/your_twitter_handle)
+- **Email:** kanishkakannan484@gmail.com
+- **LinkedIn:** [Kanishka Kannan on LinkedIn](https://www.linkedin.com/in/kanishka-kannan-0abab7299/)
 
 **Let's Connect 🔗**
 Feel free to reach out to me for collaboration opportunities or to discuss anything related to data science and machine learning!
