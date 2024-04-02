@@ -15,22 +15,22 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 **ExchangeInsight 💱**
 - **Description:** Utilized Python to predict exchange rates.
 - **Technologies Used:** Python, Machine Learning, freecurrencyapi.com
-- **Link:** [ExchangeInsight Repository](link_here)
+- **Link:** [ExchangeInsight Repository](https://github.com/kanis777/Exchange_Insight)
 
 **ArtisticAlchemy 🎨**
 - **Description:** Implemented an Image Diffusion Model leveraging a pretrained stable diffusion model, integrating Variational Autoencoders (VAEs) and UNet models for advanced image generation.
 - **Technologies Used:** Python, Diffusion Models, PyTorch, Transformers
-- **Link:** [ArtisticAlchemy Repository](link_here)
+- **Link:** [ArtisticAlchemy Repository](https://github.com/kanis777/ArtisticAlchemy)
 
 **CallWizard ☎️**
 - **Description:** Developed a comprehensive phone recommendation system utilizing SQL for database connectivity, BeautifulSoup for web scraping GSMArena, HTML/CSS for the user interface, and Power BI for data visualization.
 - **Technologies Used:** SQL, BeautifulSoup, HTML/CSS, Power BI
-- **Link:** [CallWizard Repository](link_here)
+- **Link:** [CallWizard Repository](https://github.com/kanis777/CallWizard)
 
 **SecuHash 🔒**
 - **Description:** Implemented a Merkle Trees project in C++ using a simple hash function to ensure data integrity and security in technologies like Blockchain.
 - **Technologies Used:** C++, Merkle Trees, Blockchain
-- **Link:** [SecuHash Repository](link_here)
+- **Link:** [SecuHash Repository](https://github.com/kanis777/merkle-trees)
 
 **Skills 🧠**
 - **Programming Languages:** Python, C++
