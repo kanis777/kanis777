@@ -3,6 +3,7 @@
 **Kanishka Kannan 🚀**
 
 **About Me ℹ️**
+
 I am currently pursuing an MSc in Data Science as part of a 5-year integrated program at PSG College of Technology, currently in my 3rd year. My primary area of interest lies in data science, particularly in supervised and unsupervised learning, along with LLM.
 
 **Projects 🛠️**
@@ -13,7 +14,7 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 - **Link:** [SecureSwipe Repository](https://github.com/kanis777/SecureSwipe)
 
 **ExchangeInsight 💱**
-- **Description:** Utilized Python to predict exchange rates.
+- **Description:** Utilized Python to predict foreign currency exchange rates.
 - **Technologies Used:** Python, Machine Learning, freecurrencyapi.com
 - **Link:** [ExchangeInsight Repository](https://github.com/kanis777/Exchange_Insight)
 
