@@ -18,6 +18,16 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 - **Technologies Used:** Python, Machine Learning, freecurrencyapi.com
 - **Link:** [ExchangeInsight Repository](https://github.com/kanis777/Exchange_Insight)
 
+**DeepDoom-Learning-to-Survive 🎮**
+- **Description:** DeepDoom is a deep reinforcement learning project built on top of ViZDoom, a Doom-based RL platform. This project explores the training and evaluation of AI agents using PPO, A2C, and DQN algorithms in complex FPS game scenarios.
+- **Technologies Used:** Python , PPO , A2C, DQN 
+- **Link:** [Deep Doom Repository](https://github.com/kanis777/DeepDoom-Learning-to-Survive)
+
+**Multimodal-Sign-Braille-Translator 👋**
+- **Description:** Built a Flask web app that takes input from speech, text, or images and converts it to Indian Sign Language (ISL) and Braille.We used Whisper, Google Speech API, and EasyOCR for transcription, along with language detection, translation, and grammar correction for better accessibility.
+- **Technologies Used:** Python ,Flask, OpenAI Whisper ,Google Speech Recognition API, EasyOCR, Langdetect, T5 (vennify/t5-base-grammar-correction), MarianMT (Helsinki-NLP), OpenCV ,MoviePy ,PIL
+- **Link:** [Multimodal_Sign_Braille_Translator Repository](https://github.com/kanis777/Multimodal-Sign-Braille-Translator)  
+
 **ArtisticAlchemy 🎨**
 - **Description:** Implemented an Image Diffusion Model leveraging a pretrained stable diffusion model, integrating Variational Autoencoders (VAEs) and UNet models for advanced image generation.
 - **Technologies Used:** Python, Diffusion Models, PyTorch, Transformers
@@ -32,12 +42,6 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 - **Description:** Implemented a Merkle Trees project in C++ using a simple hash function to ensure data integrity and security in technologies like Blockchain.
 - **Technologies Used:** C++, Merkle Trees, Blockchain
 - **Link:** [SecuHash Repository](https://github.com/kanis777/merkle-trees)
-
-**DeepDoom-Learning-to-Survive 🎮**
-- **Description:** DeepDoom is a deep reinforcement learning project built on top of ViZDoom, a Doom-based RL platform. This project explores the training and evaluation of AI agents using PPO, A2C, and DQN algorithms in complex FPS game scenarios.
-- **Technologies Used:** Python , PPO , A2C, DQN 
-- **Link:** [Deep Doom Repository](https://github.com/kanis777/DeepDoom-Learning-to-Survive)
-
 
 
 **Skills 🧠**
