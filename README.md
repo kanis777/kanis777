@@ -33,6 +33,13 @@ I am currently pursuing an MSc in Data Science as part of a 5-year integrated pr
 - **Technologies Used:** C++, Merkle Trees, Blockchain
 - **Link:** [SecuHash Repository](https://github.com/kanis777/merkle-trees)
 
+**DeepDoom-Learning-to-Survive 🎮**
+- **Description:** DeepDoom is a deep reinforcement learning project built on top of ViZDoom, a Doom-based RL platform. This project explores the training and evaluation of AI agents using PPO, A2C, and DQN algorithms in complex FPS game scenarios.
+- **Technologies Used:** Python , PPO , A2C, DQN 
+- **Link:** [Deep Doom Repository](https://github.com/kanis777/DeepDoom-Learning-to-Survive)
+
+
+
 **Skills 🧠**
 - **Programming Languages:** Python, C++
 - **Data Science:** Machine Learning, Data Visualization
