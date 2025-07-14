@@ -4,7 +4,7 @@
 
 **About Me ℹ️**
 
-I am currently pursuing an MSc in Data Science as part of a 5-year integrated program at PSG College of Technology, currently in my 4th year. My primary area of interest lies in data science, particularly in supervised and unsupervised learning, along with LLM.
+I am currently pursuing an MSc in Data Science as part of a 5-year integrated program at PSG College of Technology, currently in my 5th year. My primary area of interest lies in data science, particularly in supervised and unsupervised learning, along with LLM.
 
 **Projects 🛠️**
 
